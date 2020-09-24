@@ -1,2 +1,4 @@
 #Git Attributes File
 *.jpg diff=exif
+.* export-ignore
+tests export-ignore
